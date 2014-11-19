@@ -1,6 +1,6 @@
 
 var Hapi = require('hapi');
-var server = new Hapi.Server('localhost', process.env.PORT, { cors: true });
+var server = new Hapi.Server(process.env.PORT, { cors: true });
 var fraktur = require('fraktur');
 
 
