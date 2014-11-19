@@ -1,10 +1,11 @@
 {
   "name": "fraktur-www",
   "version": "0.0.0",
-  "description": "",
+  "description": "fraktur converter web interface",
+  "repository": "git@github.com:kt3k/fraktur-www.git",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "author": "Yoshiya Hinosawa <stibium121@gmail.com> (https://twitter.com/kt3k)",
   "license": "MIT",

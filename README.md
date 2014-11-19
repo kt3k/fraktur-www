@@ -1,1 +1,1 @@
-# Fraktur converter (heroku app)
+# fraktur converter (heroku) v0.0.0
